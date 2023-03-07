@@ -1,0 +1,13 @@
+body {
+  background: linear-gradient(to bottom right, #ffa221, #00f2fe);
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.clock {
+  font-size: 5em;
+  color: #fff;
+}
